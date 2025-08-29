@@ -1,1 +1,1 @@
-# inaturalist-300-species-classification
+# Inaturalist-300-species-classification
